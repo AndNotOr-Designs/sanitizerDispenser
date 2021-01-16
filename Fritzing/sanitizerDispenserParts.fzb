@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Custom1.png">
+    <title>sanitizerDispenserParts</title>
+    <instances>
+        <instance moduleIdRef="hc-sr04_ultrafix" modelIndex="85474958" path="/usr/share/fritzing/parts/core/hc-sr04_ultrafix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d8f570d723ea4d14f9b61b34575a9699" modelIndex="85474968" path="/usr/share/fritzing/parts/core/Power plug.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Nano3(fix)" modelIndex="85474969" path="/usr/share/fritzing/parts/core/Arduino Nano3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13f88e58b86d08d73d112f0fb05e6968" modelIndex="85474970" path="/usr/share/fritzing/parts/core/Half_breadboard.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1000FADF10011leg" modelIndex="85474971" path="/usr/share/fritzing/parts/core/dc_motor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3254CBFC44diode" modelIndex="85474972" path="/usr/share/fritzing/parts/core/diode_1N4001_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1001ABDC04" modelIndex="85474973" path="/usr/share/fritzing/parts/core/basic_fet_n.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5BandResistorModuleID" modelIndex="85474974" path="/usr/share/fritzing/parts/core/resistor_5band.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1206ColorLEDModuleID" modelIndex="85474975" path="/usr/share/fritzing/parts/core/SMD_LED_generic_1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>
