@@ -1,8 +1,9 @@
-# sanitizerDispenser
- Hand Sanitizer Dispenser by Travis Lisk - And!Or - January 16, 2021
- 
- ##Inspiration
- Covid-19 SUCKS! With everyone concerned about being clean, a perfect time to create something for people to use when visiting my office. 
+# Hand Sanitizer Dispenser
+by Travis Lisk - And!Or - January 16, 2021
+
+
+## Inspiration
+Covid-19 SUCKS! With everyone concerned about being clean, a perfect time to create something for people to use when visiting my office. 
  
 ## What it does
 Pumps out hand sanitizer for 1/4 second: When the green LED is light, bring your hand close to the sensor and when the yellow LED turns on, wait for the red LED to turn on at which a pump of hand sanitzer will be pumped into your hand. After a short pump of sanitizer, the yellow LED will illuminate indicating it is verifying something is still close for dispensing. If nothing is there the green LED will come on indicating it is ready for next sensing, or if a hand is still present, it will pump another pump of sanitizer.
